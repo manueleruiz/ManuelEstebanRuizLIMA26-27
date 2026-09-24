@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lange="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Manuel"/>
+        <meta name="description" content="Pagina con listas html"/>
+        <meta name="keywords" content="html"/>
+        <title>Lista II</title>
+    </head>
+    <body>
+        <h1>
+            Los 3 primeros de la semana son:
+            <ol>
+                <li>
+                    Con numero 3
+                    <details>titulode la cancion</details>
+                </li>
+                <li>
+                    Con numero 2
+                    <details>titulode la cancion</details>
+                </li>
+                <li>
+                    Con numero 1
+                    <details>titulode la cancion</details>
+                </li>
+            </ol>
+
+        </h1>
+            <datalist>
+                <summary>Es el texto que aparece visible</summary>
+                Esta es la parte que se puede ver o no
+            </datalist>
+        <h1>
+            Lista de canciones da semana do 11 o 20
+        </h1>
+        <ol start = "11">
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+            <li>Canciones corras 1</li>
+        </ol>
+    </body>
+</html>
