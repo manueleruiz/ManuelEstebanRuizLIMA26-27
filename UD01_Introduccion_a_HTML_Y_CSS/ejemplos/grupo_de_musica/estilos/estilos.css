@@ -1,0 +1,24 @@
+html{
+    background-color: pink;
+}
+
+header{
+    background-color: aqua;
+    border: 1px solid brown;
+}
+
+header > h1 {/*etiqueta de blocke*/
+    background-color: yellow;
+    padding: 30px;
+    border: 1px solid black;
+   
+}
+strong{/*etiqueta de linea*/
+    background-color: chartreuse;
+    
+}
+
+aside{
+    background-color: rgba(0, 0 , 255, 0.5);
+}
+

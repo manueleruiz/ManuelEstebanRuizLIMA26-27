@@ -1,2 +1,1 @@
-# Esta es mi casa 
-# Ahora nos fuimos a Maceda
+# Cuaderno de aula de Lenguaje de marcas. Curso 2026-2027
